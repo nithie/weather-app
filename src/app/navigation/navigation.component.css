@@ -1,0 +1,11 @@
+.header {
+    border-bottom: 1px solid #2ab23f;
+}
+
+.links{
+    background-color: #2ab23f;
+}
+
+.links a {
+    color: #fff;
+}
